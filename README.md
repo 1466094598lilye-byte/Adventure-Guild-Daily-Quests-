@@ -31,7 +31,9 @@ A structured interface inspired by RPG quest logs.
 * Base44 AI App Builder
 * JavaScript (or TypeScript, if you used TS)
 * OpenAI-powered task parsing and AI praise
-
+  
+ ## 🎮 Use the App
+https://adventurers-guild-daily-quests-1830f975.base44.app
 
 ## Running the app
 
